@@ -1,0 +1,5 @@
+THIN_SPACE = " "
+ELLIPSIS = "..."
+SD_PATH = "/sd"
+TEST_TXT = "test"
+MAIN_TXT = "main"
